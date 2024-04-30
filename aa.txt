@@ -1,1 +1,2 @@
 modify a.txt
+Hi ! Added the second line
